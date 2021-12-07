@@ -1,3 +1,26 @@
+# IGWITHBOOTSTRAP
+
+    Basic Instagram Feed made with ONLY Bootstrap component library, HTML and some CSS.
+
+    Doesn't have any functionality at all, it's only purpose is to mirror an example given by breatheco.de (https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif).
+
+
+### Features
+- Contain Bootstrap libraries.
+- Responsive design.
+
+#### PostcardPreWork directory
+
+    BOOTSTRAPIG/
+            styles.css
+            index.html
+            README.md
+            server.py
+
+```html
+
+#### MADE BY ANDRÉS FRANCO (ANDRXSAF)
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
