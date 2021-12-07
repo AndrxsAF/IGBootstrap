@@ -17,8 +17,6 @@
             README.md
             server.py
 
-```html
-
 #### MADE BY ANDRÉS FRANCO (ANDRXSAF)
 
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
