@@ -1,0 +1,13 @@
+.tab-content>.active{
+    display: flex !important;
+    flex-flow: column;
+    align-items: center;
+}
+
+.row>* {
+    padding: 1px !important;
+}
+
+.dropdown-menu[data-bs-popper] {
+    left: -120px !important;
+}

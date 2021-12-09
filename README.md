@@ -1,10 +1,23 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# IGWITHBOOTSTRAP
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+    Basic Instagram Feed made with ONLY Bootstrap component library, HTML and some CSS.
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+    Doesn't have any functionality at all, it's only purpose is to mirror an example given by breatheco.de (https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif).
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+
+### Features
+- Contain Bootstrap libraries.
+- Responsive design.
+
+#### PostcardPreWork directory
+
+    BOOTSTRAPIG/
+            styles.css
+            index.html
+            README.md
+            server.py
+
+#### MADE BY ANDRÉS FRANCO (ANDRXSAF)
 
 ## What to do next?
 
