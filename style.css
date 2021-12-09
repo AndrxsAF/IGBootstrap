@@ -1,43 +1,11 @@
-.af-pad{
-    width: inherit;
-    display: flex;
-    justify-content: space-between;
-}
-
-.af-boton {
-    min-width: 142px;
-}
-
-.af-header-div{
-    justify-content: flex-end;
-}
-
-.af-nav{
-    justify-content: center;
-}
-
 .tab-content>.active{
     display: flex !important;
     flex-flow: column;
     align-items: center;
 }
 
-.af-card{
-    max-width: 720px;
-    margin-bottom: 20px;
-}
-
 .row>* {
     padding: 1px !important;
-}
-
-.af-post-footer{
-    display: flex;
-    justify-content: space-between !important;
-}
-
-.af-post-button{
-    min-width: 90px;
 }
 
 .dropdown-menu[data-bs-popper] {
